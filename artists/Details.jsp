@@ -6,7 +6,6 @@
 <body>
     <script src="TopNav.jsp"/>
     <script src="Footer.jsp"/>
-    <h1>Contact YouTunes</h1>
     <script src="ScriptFooter.jsp"/>
 </body>
 </html>
