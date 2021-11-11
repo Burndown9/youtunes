@@ -4,8 +4,8 @@
   <title>YouTunes - CSD460</title>
 </head>
 <body>
-    <script src="TopNav.jsp"/>
-    <script src="Footer.jsp"/>
-    <script src="ScriptFooter.jsp"/>
+    <jsp:include page="TopNav.jsp"/>
+    <jsp:include page="Footer.jsp"/> //also doesn't work
+    <jsp:include page="ScriptFooter.jsp"/>
 </body>
 </html>
